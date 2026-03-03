@@ -105,15 +105,15 @@ The system is designed to:
 
 ##  Key Features
 
-✔ Semantic Search  
-✔ Context-aware responses  
-✔ Clean UI  
-✔ Scalable RAG architecture  
-✔ Supports natural language queries  
+- Semantic Search  
+- Context-aware responses  
+- Clean UI  
+- Scalable RAG architecture  
+- Supports natural language queries  
 
 ---
 
-## 📌 Functional Requirements Covered
+##  Functional Requirements Covered
 
 - PDF Processing
 - Chunking & Preprocessing
@@ -135,4 +135,5 @@ The system is designed to:
 - Add downloadable response export
 
 ---
+
 

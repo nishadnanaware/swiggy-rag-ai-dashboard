@@ -87,10 +87,7 @@ streamlit run app.py
 ##  Example Questions
 
 - What was Swiggy’s net loss in FY24?
-- How many cities does Swiggy operate in?
-- Who is the CFO?
 - What is the revenue for FY24?
-- Explain Quick Commerce performance.
 
 ---
 
@@ -135,5 +132,6 @@ The system is designed to:
 - Add downloadable response export
 
 ---
+
 
 
